@@ -5,7 +5,7 @@ Customer Personality Analysis is basically learning the customer behaviour ,purc
 
 To make the analysis efficiently, we need to do Segmentation using various Unsupervised Machine Learning methods.
 
-Methods like **K-Means** clustering, Density based **DBSCAN** are used in this project.
+Methods like **Agglomerative clutering**,**K-Means** clustering, Density based **DBSCAN** are used in this project.
 
 ### What is Customer Segmentation?
   Customer segmentation is the process of dividing customers into groups based on common beehaviours/characteristics.
@@ -13,5 +13,7 @@ Methods like **K-Means** clustering, Density based **DBSCAN** are used in this p
 ### Why Customer Segmentation iis done?
   Customer segmentation is done to offer a better relationship with our customers. Not every customer likes the same service,       segmenting your customers will provide them with a better service quality.
   
-## Data pre-processing and EDA
+### Data pre-processing and EDA
+- Refer code for pre-processing techniques
 
+### Results of various Models
