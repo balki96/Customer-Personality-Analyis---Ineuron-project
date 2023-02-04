@@ -1,4 +1,4 @@
-# Customer-Personality-Analyis---Ineuron-project
+# Customer-Personality-Analyis
 ## This project is a part of ineuron.ai internship
 
 Customer Personality Analysis is basically learning the customer behaviour ,purchase and some other static data.
