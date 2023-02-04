@@ -14,6 +14,7 @@ Methods like **Agglomerative clutering**,**K-Means** clustering, Density based *
   Customer segmentation is done to offer a better relationship with our customers. Not every customer likes the same service,       segmenting your customers will provide them with a better service quality.
   
 ### Data pre-processing and EDA
+- Check the data available from the repository.
 - Refer code for pre-processing techniques
 - refer CPA.ipynb in repository
 
