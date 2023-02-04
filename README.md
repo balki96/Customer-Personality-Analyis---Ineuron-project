@@ -15,5 +15,6 @@ Methods like **Agglomerative clutering**,**K-Means** clustering, Density based *
   
 ### Data pre-processing and EDA
 - Refer code for pre-processing techniques
+- refer CPA.ipynb in repository
 
 ### Results of various Models
